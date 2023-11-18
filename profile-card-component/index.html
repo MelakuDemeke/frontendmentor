@@ -1,36 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png"/>
 
-  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-  
-  <title>Frontend Mentor | Profile card component</title>
+    <title>Frontend Mentor | Profile card component</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              darkcyan: 'hsl(185, 75%, 39%)',
+              darkblue: 'hsl(229, 23%, 23%)',
+              grayishblue: 'hsl(227, 10%, 46%)',
+              darkgray: 'hsl(0, 0%, 59%),'
+            }
+          }
+        }
+      }
+    </script>
+  </head>
 
-  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-  <style>
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
-  </style>
-  <script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body>
-  Victor Crest
-  26
-  London
+  <body class="text-xs text-center">
+    Victor Crest 26 London 80K Followers 803K Likes 1.4K Photos
+    <div class="">
+      Challenge by
+      <a class="text-darkcyan" href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+        >Frontend Mentor</a
+      >. Coded by <a href="#">Melaku Demeke</a>.
+    </div>
+  </body>
 
-  80K
-  Followers
-
-  803K
-  Likes
-
-  1.4K
-  Photos
-  <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
-  </div>
-</body>
 </html>
