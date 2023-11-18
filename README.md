@@ -4,7 +4,7 @@ This repository contains implementations of Frontendmentor challenges.
 
 ## QR Code Component
 
-![QR code component](QR-code-component/images/image-qr-code.png)
+<img src="QR-code-component/images/image-qr-code.png" alt="QR code component" width="200">
 
 - **Description:** Build out this QR code component and get it looking as close to the design as possible.
 - **Source Code:** [GitHub Repository](https://github.com/MelakuDemeke/frontendmentor/tree/main/QR-code-component)
@@ -12,7 +12,7 @@ This repository contains implementations of Frontendmentor challenges.
 
 ## NFT Preview Card Component
 
-![NFT preview](NFT-preview-card-component/images/image-equilibrium.jpg)
+<img src="NFT-preview-card-component/images/image-equilibrium.jpg" alt="NFT preview" width="200">
 
 - **Description:** Build out this preview card component and get it looking as close to the design as possible.
 - **Source Code:** [GitHub Repository](https://github.com/MelakuDemeke/frontendmentor/tree/main/NFT-preview-card-component)
@@ -20,7 +20,7 @@ This repository contains implementations of Frontendmentor challenges.
 
 ## Interactive Rating Component
 
-![Interactive rating component](Interactive-rating-component/images/result.png)
+<img src="Interactive-rating-component/images/result.png" alt="Interactive rating component" width="200">
 
 - **Description:** Build out this interactive rating component and get it looking as close to the design as possible.
 - **Source Code:** [GitHub Repository](https://github.com/MelakuDemeke/frontendmentor/tree/main/Interactive-rating-component)
